@@ -2,6 +2,8 @@
 
 Making changes one day at a time.
 
+Passed my Splunk Cert yesterday!
+
 <!--
 **BernardSnow201/BernardSnow201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
