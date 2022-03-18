@@ -10,7 +10,7 @@ At this moment
         Posting myNotes on cybersecurity on medium >> https://medium.com/@vernonlc
         Learning everything I need to know to keep the cyberworld more stable
         
-         <script src="https://tryhackme.com/badge/947718"></script>
+        
         
 
 
