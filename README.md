@@ -1,8 +1,18 @@
-### Hi there 👋
+### 
+👋 Hello, CyberWorld! 👋
 
-Making changes one day at a time.
+My name is ✨ Vernon LC ✨ and I am a Cybersecurity Mentor for life.
 
-Passed my Splunk Cert yesterday!
+At this moment
+
+    🌱 I’m currently:
+        Taking down one room at a time on TryHackMe >> https://tryhackme.com/p/BernardSnow
+        Posting myNotes on cybersecurity on medium >> https://medium.com/@vernonlc
+        Learning everything I need to know to keep the cyberworld more stable
+        
+         <script src="https://tryhackme.com/badge/947718"></script>
+        
+
 
 <!--
 **BernardSnow201/BernardSnow201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
