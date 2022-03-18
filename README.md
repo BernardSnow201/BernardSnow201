@@ -8,7 +8,8 @@ My name is ✨ Vernon LC ✨ and I am a Cybersecurity Mentor for life.
         Taking down one room at a time on TryHackMe >> https://tryhackme.com/p/BernardSnow
         Posting myNotes on cybersecurity on medium >> https://vernonlc.medium.com/
         Learning everything I need to know to keep the cyberworld more stable.
-        
+     
+      
         
         
 
