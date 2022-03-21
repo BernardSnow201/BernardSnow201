@@ -9,7 +9,7 @@ My name is ✨ Vernon LC ✨ and I am a Cybersecurity Mentor for life.
         Posting myNotes on cybersecurity on medium >> https://vernonlc.medium.com/
         Learning everything I need to know to keep the cyberworld more stable.
      
-      
+       
         
         
 
